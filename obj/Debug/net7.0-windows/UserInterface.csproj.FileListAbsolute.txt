@@ -1,0 +1,17 @@
+C:\Users\mirac\OneDrive\Desktop\Week6 Task Sqd14\UserInterface\bin\Debug\net7.0-windows\UserInterface.exe
+C:\Users\mirac\OneDrive\Desktop\Week6 Task Sqd14\UserInterface\bin\Debug\net7.0-windows\UserInterface.deps.json
+C:\Users\mirac\OneDrive\Desktop\Week6 Task Sqd14\UserInterface\bin\Debug\net7.0-windows\UserInterface.runtimeconfig.json
+C:\Users\mirac\OneDrive\Desktop\Week6 Task Sqd14\UserInterface\bin\Debug\net7.0-windows\UserInterface.dll
+C:\Users\mirac\OneDrive\Desktop\Week6 Task Sqd14\UserInterface\bin\Debug\net7.0-windows\UserInterface.pdb
+C:\Users\mirac\OneDrive\Desktop\Week6 Task Sqd14\UserInterface\obj\Debug\net7.0-windows\UserInterface.csproj.AssemblyReference.cache
+C:\Users\mirac\OneDrive\Desktop\Week6 Task Sqd14\UserInterface\obj\Debug\net7.0-windows\UserInterface.Form1.resources
+C:\Users\mirac\OneDrive\Desktop\Week6 Task Sqd14\UserInterface\obj\Debug\net7.0-windows\UserInterface.csproj.GenerateResource.cache
+C:\Users\mirac\OneDrive\Desktop\Week6 Task Sqd14\UserInterface\obj\Debug\net7.0-windows\UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\OneDrive\Desktop\Week6 Task Sqd14\UserInterface\obj\Debug\net7.0-windows\UserInterface.AssemblyInfoInputs.cache
+C:\Users\mirac\OneDrive\Desktop\Week6 Task Sqd14\UserInterface\obj\Debug\net7.0-windows\UserInterface.AssemblyInfo.cs
+C:\Users\mirac\OneDrive\Desktop\Week6 Task Sqd14\UserInterface\obj\Debug\net7.0-windows\UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\mirac\OneDrive\Desktop\Week6 Task Sqd14\UserInterface\obj\Debug\net7.0-windows\UserInterface.dll
+C:\Users\mirac\OneDrive\Desktop\Week6 Task Sqd14\UserInterface\obj\Debug\net7.0-windows\refint\UserInterface.dll
+C:\Users\mirac\OneDrive\Desktop\Week6 Task Sqd14\UserInterface\obj\Debug\net7.0-windows\UserInterface.pdb
+C:\Users\mirac\OneDrive\Desktop\Week6 Task Sqd14\UserInterface\obj\Debug\net7.0-windows\UserInterface.genruntimeconfig.cache
+C:\Users\mirac\OneDrive\Desktop\Week6 Task Sqd14\UserInterface\obj\Debug\net7.0-windows\ref\UserInterface.dll
